@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    created: "2024-09-25T03:18:59.083522447Z"
+    digest: 557fa15c40d78682b3e7187f899eda7af367bb8079efe0135d9a208e38970a9d
+    name: myapp
+    urls:
+    - https://integer-bin.github.io/helm-test-repo/myapp-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-09-25T03:18:59.083206098Z"
